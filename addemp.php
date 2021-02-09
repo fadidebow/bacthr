@@ -18,7 +18,7 @@ ob_start();
 
 	</style>
 </head>
-<body style="background-color: #222">
+<body style="background-color: #003b64">
 	<?php
 include'adminnav.php';
 	?> 
